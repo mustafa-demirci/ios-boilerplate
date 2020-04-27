@@ -1,2 +1,2 @@
 # ios-boilerplate
-Boilerplate project for homework 
+## Boilerplate project for performance project
