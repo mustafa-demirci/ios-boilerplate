@@ -182,6 +182,16 @@
 			path = API;
 			sourceTree = "<group>";
 		};
+		7B6A24062457217900D94558 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				7B7E1FA5244887BA00F87066 /* LaunchScreen.storyboard */,
+				7B7E1F9C244887B900F87066 /* SceneDelegate.swift */,
+				7B7E1F9A244887B900F87066 /* AppDelegate.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
 		7B7E1F8E244887B900F87066 = {
 			isa = PBXGroup;
 			children = (
@@ -205,13 +215,11 @@
 		7B7E1F99244887B900F87066 /* PerformanceProject */ = {
 			isa = PBXGroup;
 			children = (
+				7B6A24062457217900D94558 /* Application */,
 				7B066EE02456FA6A0094E1AD /* Screens */,
 				7B3B5FD9244ECD0600F7EECE /* API */,
-				7B7E1F9A244887B900F87066 /* AppDelegate.swift */,
-				7B7E1F9C244887B900F87066 /* SceneDelegate.swift */,
-				7B7E1FA0244887BA00F87066 /* Assets.xcassets */,
-				7B7E1FA5244887BA00F87066 /* LaunchScreen.storyboard */,
 				7B7E1FA8244887BA00F87066 /* Info.plist */,
+				7B7E1FA0244887BA00F87066 /* Assets.xcassets */,
 				7B7E1FA2244887BA00F87066 /* Preview Content */,
 			);
 			path = PerformanceProject;
